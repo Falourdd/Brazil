@@ -16,7 +16,23 @@ Parler de ce qu'on aime faire.
 Le week-end (Fim de semana) est très important. On demande souvent :
 *   *O que você vai fazer no fim de semana?*
 
-## Exercices
-1.  Associez :
-    *   Praia -> (Nadar / Comer / Ler) -> Nadar (Nager)
-    *   TV -> (Assistir / Jogar / Falar) -> Assistir
+## Pratique du jour (30% - Loisirs)
+1.  Je vais à la plage. -> Eu vou para a ________.
+2.  J'aime lire. -> Eu gosto de ________.
+3.  Le dimanche, je regarde la télé. -> No domingo, eu assisto ________.
+
+## Révision Intensive (70% - Semaines 1-4)
+1.  (Verbe Ir) Eu ________ (Vou).
+2.  (Verbe Fazer) Você ________ (Faz).
+3.  (Verbe Ter) Nós ________ (Temos).
+4.  (Verbe Ser) Eles ________ (São).
+5.  (Ville) "Banque" -> ________.
+6.  (Ville) "Rue" -> ________.
+7.  (Transport) Metro.
+8.  (Maison) Cuisine -> ________.
+9.  (Maison) Salle de bain -> ________.
+10. (Routine) Se lever -> ________.
+11. (Famille) Ma mère -> ________.
+12. (Négation) Je ne travaille pas. -> Eu ________ trabalho.
+13. (Nombre) 30 -> ________.
+14. (Salutation) Bom dia.

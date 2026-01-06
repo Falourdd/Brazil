@@ -15,7 +15,23 @@ Pour une action **terminée** dans le passé.
 *   **Ano passado** : L'année dernière
 *   **Já** : Déjà (*Eu já comi* = J'ai déjà mangé).
 
-## Exercices
-Classez chronologiquement :
-Hoje / Ontem / Amanhã
--> ________, ________, ________.
+## Pratique du jour (30% - Passé Intro)
+1.  Hier -> ________.
+2.  L'année dernière -> ________ passado.
+3.  J'ai déjà mangé. -> Eu ________ comi.
+
+## Révision Intensive (70% - Semaines 1-7)
+1.  (Questions) Onde?
+2.  (Hôtel) Reserva.
+3.  (Direction) Reto (Tout droit).
+4.  (Orientation) Perto.
+5.  (Voyage) Mala.
+6.  (Restaurant) Conta.
+7.  (Verbe -ER) Beber.
+8.  (Futur) Vou fazer.
+9.  (Jours) Segunda.
+10. (Verbe Ir) Vai.
+11. (Verbe Fazer) Faz.
+12. (Verbe Ter) Temos.
+13. (Ville) Cais (Quai) / Aeroporto.
+14. (Ser/Estar) Eu sou feliz / Eu estou feliz.

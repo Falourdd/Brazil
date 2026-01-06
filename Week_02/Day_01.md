@@ -33,6 +33,23 @@ Compter jusqu'à 20. Essentiel pour les prix, les heures et les quantités.
     *   *Dois* reais (Deux réais)
     *   *Duas* pessoas (Deux personnes)
 
-## Exercices
-1.  Comptez à voix haute de 1 à 20.
-2.  Traduisez : Deux bières, s'il vous plaît. -> ____________________
+## Pratique du jour (30% - Nombres 1-20)
+1.  Nombre : 15 -> ________.
+2.  Nombre : 8 -> ________.
+3.  Trad : "Deux bières" -> ________ cervejas.
+
+## Révision Intensive (70% - Semaine 1)
+1.  (Ser) Nós ________ brasileiros.
+2.  (Ser) Você ________ o professor?
+3.  (Estar) Eu ________ cansado.
+4.  (Estar) Ela ________ feliz.
+5.  (Salutation) ________ dia!
+6.  (Origine) Eu sou ________ França.
+7.  (Féminin) O aluno -> A ________.
+8.  (Profession) Ele é ________ (ingénieur). (Engenheiro)
+9.  (Ser) Elas ________ (Être) amigas.
+10. (Estar) Nós ________ (Être) no Brasil.
+11. (Vocab) "Je m'appelle..." -> Meu ________ é...
+12. (Contraction) De + O = ________.
+13. (Salutation) "Ciao/Au revoir" -> ________.
+14. (Origine) Sou ________ Paris (De).

@@ -28,11 +28,23 @@ La préposition **de** se contracte avec l'article du pays (o, a, os, as).
 
 ## Exercices
 
-### 1. Complétez avec do, da, ou de
-1.  Eu sou ____ França.
-2.  Ele é ____ Rio de Janeiro.
-3.  Nós somos ____ Estados Unidos.
+## Pratique du jour (30% - Nationalités/Origine)
+1.  Eu sou ____ França (Préposition).
+2.  Nós somos ____ Estados Unidos.
+3.  Défi : Présentez-vous complet (Nom + Nationalité + Ville).
 
-### 2. Présentez-vous
-Écrivez une phrase disant votre nom, et votre origine.
-*Modèle : Oi, meu nome é Pierre, eu sou francês e sou de Paris.*
+## Révision Intensive (70% - Salutations & Ser)
+1.  (Ser) Eu ________ feliz. (Attention: "Je suis" heureux -> Eu sou ou Eu estou? Ici on révise "Ser" pour l'identité, mais on verra "Estar" plus tard. Disons "Je suis [Nom]"). Eu ________ Pierre.
+2.  (Ser) Você ________ brasileiro?
+3.  (Ser) Eles ________ amigos.
+4.  (Salutation) ________ tarde!
+5.  (Salutation) ________ noite!
+6.  (Vocab) "Mon nom est..." -> Meu ________ é...
+7.  (Vocab) "Enchanté" -> ________.
+8.  (Ser) Ela ________ médica.
+9.  (Ser) Nós ________ franceses.
+10. (Salutation) "Tudo bom?" -> Réponse : ________.
+11. (Vocab) Monsieur -> ________.
+12. (Vocab) Madame -> ________.
+13. (Ser) O Roberto ________ professor.
+14. (Ser) Eu ________ turista.

@@ -18,6 +18,23 @@ Au Brésil, on utilise souvent le pronom sujet ou "ele/ela" après le verbe !
 Continuez à utiliser "ele/ela" après le verbe pour dire "le/la", tout le monde vous comprendra et c'est très natif "oral".
 Pour "Me" et "Te", placez-les **avant** le verbe.
 
-## Exercices
+## Pratique du jour (30% - Pronoms)
 1.  Je t'ai vu. -> Eu ________ vi.
 2.  Il m'a appelé. -> Ele ________ chamou.
+3.  Je l'aime (elle). -> Eu amo ________.
+
+## Révision Intensive (70% - Semaines 1-9)
+1.  (Superlatif) O mais bonito.
+2.  (Opinion) Eu concordo.
+3.  (Passé Ser/Ir) Foi.
+4.  (Corps) Olhos.
+5.  (Passé ER) Bebeu.
+6.  (Hôtel) Café.
+7.  (Voyage) Passagem.
+8.  (Verbe Ir) Vai.
+9.  (Futur) Vamos sair.
+10. (Ville) Trabalho.
+11. (Routine) Dormir.
+12. (Maison) Cozinha.
+13. (Famille) Pai.
+14. (Nombre) 50.

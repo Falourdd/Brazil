@@ -14,8 +14,30 @@ C'est très simple en Portugais : on met **Não** juste avant le verbe.
 *   Question : *Você fala inglês?*
 *   Réponse : *Não.* ou *Não, não falo.* (On répète souvent le non).
 
-## Exercices
-Mettez à la forme négative :
-1.  Ela trabalha aqui. -> ____________________
-2.  Nós somos americanos. -> ____________________
-3.  Eu moro em Paris. -> ____________________
+## Pratique du jour (30% - Négation)
+1.  Je ne parle pas anglais. -> Eu ________ falo inglês.
+2.  Elle n'est pas ici. -> Ela ________ está aqui.
+3.  Nous n'aimons pas. -> Nós ________ gostamos.
+
+## Révision Intensive (70% - Leçons précédentes)
+1.  (Routine) Je déjeune à midi. -> Eu ________.
+2.  (Verbe -AR) Você (Estudar) -> Você ________?
+3.  (Maison) Banheiro (Salle de bain).
+4.  (Meuble) Cama (Lit).
+5.  (Ser) Eu ________ feliz (Estar) / Eu ________ (Ser) Pedro.
+6.  (Nombre) 5.
+7.  (Possessif) Meu.
+8.  (Routine) Jantar.
+9.  (Routine) Tomar banho.
+10. (Verbe -AR) Nós (Gostar) ________ de futebol.
+11. (Couleur) Branco.
+12. (Famille) Mãe.
+13. (Salutation) Boa noite.
+14. (Adjectif) Novo.
+8.  (Routine) Jantar.
+9.  (Routine) Tomar banho.
+10. (Verbe -AR) Nós (Gostar) ________ de futebol.
+11. (Couleur) Branco.
+12. (Famille) Mãe.
+13. (Salutation) Boa noite.
+14. (Adjectif) Novo.

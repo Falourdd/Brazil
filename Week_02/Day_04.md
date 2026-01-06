@@ -19,7 +19,23 @@ Au Brésil, on met souvent l'article avant le possessif (optionnel mais courant)
 *   **O meu** carro. (Ma voiture)
 *   **A sua** casa. (Ta maison)
 
-## Exercices
-1.  Trad : Mon frère. -> ________________
-2.  Trad : Ta sœur. -> ________________
-3.  Trad : Notre maison. -> ________________
+## Pratique du jour (30% - Possessifs)
+1.  Mon père -> ________ pai.
+2.  Ta mère -> ________ mãe.
+3.  Notre maison -> ________ casa.
+
+## Révision Intensive (70% - Précédent)
+1.  (Famille) Soeur -> ________.
+2.  (Age) Eu ________ (Avoir) 40 anos.
+3.  (Ser) Elas ________ (Être) amigas.
+4.  (Estar) Tudo ________? (Tout va bien ?)
+5.  (Nombre) 15 -> ________.
+6.  (Nombre) 60 -> ________.
+7.  (Salutation) Oi, tudo ________?
+8.  (Famille) Mère -> ________.
+9.  (Famille) Père -> ________.
+10. (Nombre) 90 -> ________.
+11. (Profession) Ele é ________ (Avocat).
+12. (Estar) Eu ________ cansada.
+13. (Vocab) "De rien" -> ________.
+14. (Age) Você ________ quantos anos?

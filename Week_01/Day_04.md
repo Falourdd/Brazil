@@ -22,12 +22,23 @@ En portugais, on omet souvent l'article devant la profession si on ne la qualifi
 
 ## Exercices
 
-### 1. Masculin ou Féminin ?
-Mettez au féminin :
-1.  O médico -> A ________
-2.  O engenheiro -> A ________
-3.  O estudante -> A ________ (Attention !)
+## Pratique du jour (30% - Professions)
+1.  Feminin de "O médico" -> A ________.
+2.  Féminin de "O estudante" -> A ________.
+3.  Question : Qu'est-ce que vous faites ? -> O que você ________?
 
-### 2. Répondre à la question
-*O que você faz?*
--> (Répondez avec votre métier réel ou imaginaire)
+## Révision Intensive (70% - Jours 1-3)
+1.  (Origine) Eu sou ________ Brasil.
+2.  (Origine) Ele é ________ França.
+3.  (Ser) Nós ________ professores.
+4.  (Ser) Ela ________ Maria.
+5.  (Salutation) Tudo ________?
+6.  (Vocab) "Oui" -> Sim. "Non" -> ________.
+7.  (Phrase) Je suis Paul et je suis de Paris. -> ____________________.
+8.  (Origine) Nós somos ________ Estados Unidos.
+9.  (Ser) Você ________ estudante?
+10. (Vocab) "Je suis" -> Eu ________.
+11. (Salutation) Bom ________ (Matin).
+12. (Origine) Eu sou ________ Rio de Janeiro (da/do/de ?).
+13. (Vocab) "Nom" -> ________.
+14. (Ser) Elas ________ (Être) amigas.

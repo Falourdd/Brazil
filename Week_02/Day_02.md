@@ -24,7 +24,23 @@ On utilise **"e"** (et) entre les dizaines et les unités.
 Pour dire son âge, on utilise le verbe **Ter** (Avoir).
 *   *Eu tenho 25 anos.* (J'ai 25 ans.)
 
-## Exercices
-1.  Écrivez en toutes lettres : 45 -> ________________
-2.  Écrivez en toutes lettres : 88 -> ________________
-3.  Quel âge avez-vous ? -> Eu tenho _____ anos.
+## Pratique du jour (30% - Nombres 20-100 & Age)
+1.  (Nombre) 50 -> ________.
+2.  (Nombre) 35 -> Trinta ________ cinco.
+3.  (Age) Eu ________ 30 anos.
+
+## Révision Intensive (70% - Semaine 1 & W2D1)
+1.  (Nombre) 12 -> ________.
+2.  (Nombre) 7 -> ________.
+3.  (Ser) Eles ________ amigos.
+4.  (Estar) Você ________ bem?
+5.  (Origine) Ele é ________ Brasil.
+6.  (Salutation) ________ logo! (À bientôt).
+7.  (Profession) Ela é ________ (Professeur).
+8.  (Nombre) 18 -> ________.
+9.  (Nombre) 4 -> ________.
+10. (Estar) Eu não ________ feliz hoje.
+11. (Ser) Nós ________ turistas.
+12. (Vocab) "Oui" -> ________.
+13. (Féminin) O médico -> A ________.
+14. (Nombre) 20 -> ________.

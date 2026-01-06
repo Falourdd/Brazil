@@ -15,3 +15,24 @@ Utile seulement à l'écrit formel. Restez sur "Vou falar", c'est parfait.
 5.  **Subjonctif** : *Que eu fale.* (Que je parle).
 
 Bravo ! C'est l'arsenal complet pour survivre.
+
+## Pratique du jour (30% - Synthèse)
+1.  Futur : Je vais parler. -> Eu ________ falar.
+2.  Passé : J'ai parlé. -> Eu ________.
+3.  Imparfait : Je parlais. -> Eu ________.
+
+## Révision Intensive (70% - Semaines 1-11)
+1.  (Subjonctif) Tomara que.
+2.  (Tech) Celular.
+3.  (Saisons) Outono.
+4.  (Imparfait) Chovia (Pleuvait).
+5.  (Connecteur) Porque.
+6.  (Pronoms) Me chamou.
+7.  (Passé ER) Comi.
+8.  (Santé) Febre.
+9.  (Direction) Direita.
+10. (Voyage) Mala.
+11. (Restaurant) Garçom.
+12. (Verbe Ir) Vou.
+13. (Verbe Ter) Tenho.
+14. (Ser) É.

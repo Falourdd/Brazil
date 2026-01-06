@@ -29,10 +29,23 @@ Contrairement à *Ser* (permanent), **Estar** est utilisé pour les états tempo
 *   *Ela **é** feliz.* (Elle est une personne heureuse par nature.)
 *   *Ela **está** feliz.* (Elle est heureuse en ce moment.)
 
-## Exercices
+## Pratique du jour (30% - Estar & Sentiments)
+1.  (État) Eu ________ cansado hoje.
+2.  (Localisation) Nós ________ em casa.
+3.  (Sentiment) Ela ________ feliz agora.
 
-### 1. Complétez avec Ser ou Estar
-1.  Eu ________ brasileiro. (Nationalité)
-2.  Eu ________ cansado hoje. (État)
-3.  Você ________ médico? (Profession)
-4.  Você ________ em casa? (Localisation)
+## Révision Intensive (70% - Jours 1-4)
+1.  (Ser - Permanent) Eu ________ brasileiro.
+2.  (Profession) Ele é ________ (Médecin).
+3.  (Origine) Você é ________ Paris?
+4.  (Salutation) Bom ________ (Matin).
+5.  (Vocab) Mon nom est... -> Meu ________ é...
+6.  (Article) Feminine de "O aluno" -> A ________.
+7.  (Contraction) De + O = ________.
+8.  (Profession) O ________ (Professeur).
+9.  (Origine) Eu sou ________ Alemanha.
+10. (Ser) Nós ________ (Être) amigos.
+11. (Vocab) "Merci" -> ________.
+12. (Profession) Elle est avocate. -> Ela é ________.
+13. (Ser) O senhor ________ (Être) o Paulo?
+14. (Salutation) Tchau! -> ________!

@@ -27,13 +27,24 @@ Le verbe *Ser* est utilisé pour les caractéristiques permanentes ou essentiell
 *   **Eu sou o [Prénom].** (Je suis [Prénom].)
 *   **Muito prazer.** (Enchanté.)
 
-## Exercices
-
-### 1. Conjuguez le verbe Ser
+## Pratique du jour (30% - Verbe SER)
 1.  Eu ________ Roberto.
 2.  Ela ________ Maria.
 3.  Você ________ o professor?
 
-### 2. Traduisez
-1.  Je suis Paul. -> ____________________
-2.  Elle est Ana. -> ____________________
+## Révision Intensive (70% - Salutations)
+*Rappel de la leçon précédente*
+1.  Trad : "Bonjour" (Matin) -> ________________
+2.  Trad : "Bonsoir" -> ________________
+3.  Trad : "Salut !" (Informel) -> ________________
+4.  Trad : "Comment ça va ?" -> ________________
+5.  Réponse à "Tudo bem?" -> ________________
+6.  Trad : "Au revoir" -> ________________
+7.  Trad : "A demain" -> ________________
+8.  Trad : "Bienvenue" -> ________________
+9.  Trad : "S'il vous plaît" -> ________________
+10. Trad : "Merci" (Homme/Femme) -> ________________ / ________________
+11. Trad : "De rien" -> ________________
+12. Trad : "Pardon" -> ________________
+13. Trad : "Bon après-midi" -> ________________
+14. Dialogue : - "Oi, tudo bem?" - "________, e você?"

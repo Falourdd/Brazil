@@ -16,7 +16,23 @@ Exprimer la possession et l'obligation. Indispensable !
 2.  **Âge** : *Ela tem 20 anos.*
 3.  **Obligation (Ter de / Ter que)** : *Eu tenho que trabalhar.* (Je dois travailler).
 
-## Exercices
-1.  Tu as un stylo ? -> Você ________ uma caneta?
-2.  Ils ont beaucoup d'argent. -> Eles ________ muito dinheiro.
-3.  Je dois étudier. -> Eu ________ que estudar.
+## Pratique du jour (30% - Ter)
+1.  J'ai une voiture. -> Eu ________ um carro.
+2.  Nous avons faim. -> Nós ________ fome.
+3.  Tu as quel âge ? -> Você ________ quantos anos?
+
+## Révision Intensive (70% - Leçons précédentes)
+1.  (Transport) Avion -> ________.
+2.  (Ville) Pharmacie -> ________.
+3.  (Négation) Eu ________ tenho tempo.
+4.  (Routine) Acordar (Se réveiller).
+5.  (Maison) Quarto.
+6.  (Famille) Pai.
+7.  (Ser) Ele ________ médico.
+8.  (Transport) Voiture -> ________.
+9.  (Transport) Bus -> ________.
+10. (Ville) Banque -> ________.
+11. (Verbe -AR) Eu (Trabalhar) ________.
+12. (Estar) Ela ________ triste.
+13. (Adjectif) Grande.
+14. (Nombre) 50.
