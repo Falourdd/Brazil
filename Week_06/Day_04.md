@@ -24,17 +24,17 @@ Verbe modèle : **Abrir** (Ouvrir)
 3.  Je décide. -> Eu ________.
 
 ## Révision Intensive (70% - Semaines 1-5)
-1.  (Restaurant) Garçom.
-2.  (Politesse) "Queria".
-3.  (Verbe -ER) Nós ________ (Aprender).
-4.  (Nourriture) Peixe.
-5.  (Futur) Eles vão ________ (Arriver - Chegar).
-6.  (Jours) Sábado.
-7.  (Verbe Ir) Vão.
-8.  (Verbe Fazer) Fazem.
-9.  (Transport) Táxi.
-10. (Ville) Onde fica?
-11. (Routine) Tomar café.
-12. (Maison) Sala.
-13. (Famille) Tio (Oncle) / Tia.
-14. (Estar) Você está.
+1.  (Restaurant) Serveur -> ________.
+2.  (Politesse) "Je voudrais". -> Eu ________.
+3.  (Verbe -ER) Nous apprenons. -> Nós ________.
+4.  (Nourriture) Poisson -> ________.
+5.  (Futur) Ils vont arriver. -> Eles vão ________.
+6.  (Jours) Samedi -> ________.
+7.  (Verbe Ir) Ils vont. -> Eles ________.
+8.  (Verbe Fazer) Ils font. -> Eles ________.
+9.  (Transport) Taxi -> ________.
+10. (Ville) Où se trouve ? -> ________ fica?
+11. (Routine) Prendre le petit-déjeuner. -> Tomar ________.
+12. (Maison) Salon -> ________.
+13. (Famille) Oncle -> ________.
+14. (Estar) Tu es (état). -> Você ________.

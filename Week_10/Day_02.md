@@ -26,17 +26,17 @@ On ne dit pas "Mais bom" ou "Mais grande" (Oups, j'ai fait l'erreur ci-dessus po
 3.  Pire (Mauvais) -> ________.
 
 ## Révision Intensive (70% - Semaines 1-9)
-1.  (Opinion) Eu acho que.
-2.  (Corps) Mão.
-3.  (Passé AR) Falei.
-4.  (Passé ER) Comi.
-5.  (Jours) Hoje é segunda.
-6.  (Hôtel) Quarto.
-7.  (Voyage) Mala.
-8.  (Verbe Ir) Vamos.
-9.  (Futur) Vamos comer.
-10. (Ville) Rua.
-11. (Routine) Almoçar.
-12. (Maison) Sala.
-13. (Famille) Mãe.
-14. (Nombre) 100.
+1.  (Opinion) Je pense que. -> Eu ________ que.
+2.  (Corps) Main -> ________.
+3.  (Passé AR) J'ai parlé. -> ________.
+4.  (Passé ER) J'ai mangé. -> ________.
+5.  (Jours) Aujourd'hui c'est lundi. -> Hoje é ________.
+6.  (Hôtel) Chambre -> ________.
+7.  (Voyage) Valise -> ________.
+8.  (Verbe Ir) Nous allons. -> ________.
+9.  (Futur) Nous allons manger. -> Vamos ________.
+10. (Ville) Rue -> ________.
+11. (Routine) Déjeuner -> ________.
+12. (Maison) Salon -> ________.
+13. (Famille) Mère -> ________.
+14. (Nombre) 100 -> ________.

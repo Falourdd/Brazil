@@ -24,17 +24,17 @@ Verbe modèle : **Comer** (Manger)
 3.  Tu apprends le portugais. -> Você ________ português.
 
 ## Révision Intensive (70% - Semaines 1-5)
-1.  (Nourriture) Arroz e ________.
-2.  (Boisson) Suco de maracujá (Fruit de la passion).
-3.  (Futur) Nós vamos ________ (Manger).
-4.  (Gostar) Eu gosto de ________ (Dormir).
-5.  (Jours) Domingo.
-6.  (Verbe Ir) Você ________ (Vai).
-7.  (Verbe Fazer) O que você ________?
-8.  (Verbe Ter) Eles ________ (Têm).
-9.  (Transport) Carro.
-10. (Ville) Rua.
-11. (Routine) Acordar.
-12. (Maison) Cozinha.
-13. (Possessif) Minha casa.
-14. (Ser) Nós somos.
+1.  (Nourriture) Riz et haricots. -> Arroz e ________.
+2.  (Boisson) Jus de fruit. -> ________ de fruta.
+3.  (Futur) Nous allons manger. -> Nós vamos ________.
+4.  (Gostar) J'aime dormir. -> Eu gosto ________ dormir.
+5.  (Jours) Dimanche -> ________.
+6.  (Verbe Ir) Tu vas. -> Você ________.
+7.  (Verbe Fazer) Qu'est-ce que tu fais ? -> O que você ________?
+8.  (Verbe Ter) Ils ont. -> Eles ________.
+9.  (Transport) Voiture -> ________.
+10. (Ville) Rue -> ________.
+11. (Routine) Se réveiller. -> ________.
+12. (Maison) Cuisine -> ________.
+13. (Possessif) Ma maison. -> ________ casa.
+14. (Ser) Nous sommes. -> Nós ________.

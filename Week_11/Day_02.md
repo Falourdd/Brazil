@@ -23,17 +23,17 @@ Utilisé pour les habitudes passées ou les descriptions.
 3.  J'habitais ici. -> Eu ________ aqui.
 
 ## Révision Intensive (70% - Semaines 1-10)
-1.  (Météo) Sol.
-2.  (Connecteur) Por isso.
-3.  (Superlatif) Belíssimo.
-4.  (Comparatif) Menos... que.
-5.  (Opinion) Eu prefiro.
-6.  (Passé Ter) Eu tive.
-7.  (Corps) Cabeça.
-8.  (Passé Ser/Ir) Foi chato.
-9.  (Passé ER) Comi.
-10. (Hôtel) Reserva.
-11. (Voyage) Voo.
-12. (Futur) Vamos viajar.
-13. (Verbe Ir) Vai.
-14. (Routine) Acordar.
+1.  (Météo) Soleil -> ________.
+2.  (Connecteur) C'est pourquoi (Donc). -> ________ isso.
+3.  (Superlatif) Très beau (Bellissime). -> ________.
+4.  (Comparatif) Moins... que. -> ________... que.
+5.  (Opinion) Je préfère. -> Eu ________.
+6.  (Passé Ter) J'ai eu. -> Eu ________.
+7.  (Corps) Tête -> ________.
+8.  (Passé Ser/Ir) C'était ennuyeux (chiant). -> ________ chato.
+9.  (Passé ER) J'ai mangé. -> ________.
+10. (Hôtel) Réservation -> ________.
+11. (Voyage) Vol -> ________.
+12. (Futur) Nous allons voyager. -> Vamos ________.
+13. (Verbe Ir) Il va. -> ________.
+14. (Routine) Se réveiller -> ________.

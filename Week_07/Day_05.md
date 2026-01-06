@@ -23,17 +23,17 @@ Poser toutes sortes de questions.
 4.  (Qui) ________ é ela?
 
 ## Révision Intensive (70% - Semaines 1-6)
-1.  (Hôtel) Quarto.
-2.  (Orientation) Direita / Esquerda.
-3.  (Voyage) Aeroporto.
-4.  (Restaurant) Garçom.
-5.  (Verbe -IR) Pedir (Commander).
-6.  (Futur) Vou comer.
-7.  (Jours) Quarta.
-8.  (Verbe Ir) Eu vou.
-9.  (Verbe Ter) Nós temos.
-10. (Transport) Ônibus.
-11. (Ville) Banco.
-12. (Maison) Cozinha.
-13. (Ser) Você é.
-14. (Estar) Você está.
+1.  (Hôtel) Chambre. -> ________.
+2.  (Orientation) Droite / Gauche. -> ________ / ________.
+3.  (Voyage) Aéroport. -> ________.
+4.  (Restaurant) Serveur. -> ________.
+5.  (Verbe -IR) Commander. -> ________.
+6.  (Futur) Je vais manger. -> Vou ________.
+7.  (Jours) Mercredi -> ________.
+8.  (Verbe Ir) Je vais. -> Eu ________.
+9.  (Verbe Ter) Nous avons. -> Nós ________.
+10. (Transport) Bus. -> ________.
+11. (Ville) Banque. -> ________.
+12. (Maison) Cuisine. -> ________.
+13. (Ser) Tu es. -> Você ________.
+14. (Estar) Tu es (là). -> Você ________.

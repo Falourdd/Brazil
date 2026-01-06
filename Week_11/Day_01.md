@@ -21,17 +21,17 @@ Parler du temps qu'il fait.
 3.  Il fait chaud. -> Faz ________.
 
 ## Révision Intensive (70% - Semaines 1-10)
-1.  (Opinions) Eu acho que...
-2.  (Comparatif) Mais grande que.
-3.  (Superlatif) O mais bonito.
-4.  (Pronoms) Ele me viu.
-5.  (Connecteur) Mas (Mais).
-6.  (Passé Irrégulier) Eu fiz (Fazer).
-7.  (Santé) Estou doente.
-8.  (Passé Ser/Ir) Fui.
-9.  (Passé AR) Falei.
-10. (Questions) Quando?
-11. (Futur) Vou sair.
-12. (Gostar) Gosto de.
-13. (Verbe Ter) Tenho.
-14. (Ser/Estar) Sou / Estou.
+1.  (Opinions) Je pense que... -> Eu ________ que...
+2.  (Comparatif) Plus grand que. -> ________ grande que.
+3.  (Superlatif) Le plus beau. -> O ________ bonito.
+4.  (Pronoms) Il m'a vu. -> Ele ________ viu.
+5.  (Connecteur) Mais. -> ________.
+6.  (Passé Irrégulier) J'ai fait. -> Eu ________.
+7.  (Santé) Je suis malade. -> ________ doente.
+8.  (Passé Ser/Ir) Je suis allé. -> ________.
+9.  (Passé AR) J'ai parlé. -> ________.
+10. (Questions) Quand ? -> ________?
+11. (Futur) Je vais sortir. -> Vou ________.
+12. (Gostar) J'aime... -> ________ de...
+13. (Verbe Ter) J'ai. -> ________.
+14. (Ser/Estar) Je suis. -> Sou / ________.

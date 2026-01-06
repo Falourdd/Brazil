@@ -18,17 +18,17 @@ Utiliser le subjonctif sans faire de grammaire complexe. Apprenez ces blocs par 
 3.  Faites comme chez vous. -> Fique à ________.
 
 ## Révision Intensive (70% - Semaines 1-11)
-1.  (Subjonctif) Que eu fale.
-2.  (Tech) Senha.
-3.  (Imparfait) Antigamente.
-4.  (Opinion) Eu discordo.
-5.  (Passé AR) Viajei.
-6.  (Hôtel) Reserva.
-7.  (Verbe Ir) Onde você vai?
-8.  (Jours) Hoje.
-9.  (Gostar) Gosto de.
-10. (Verbe Fazer) Faço.
-11. (Ville) Banco.
-12. (Routine) Jantar.
-13. (Maison) Sala.
-14. (Nombre) 1000 (Mil).
+1.  (Subjonctif) Que je parle. -> Que eu ________.
+2.  (Tech) Mot de passe -> ________.
+3.  (Imparfait) Autrefois -> ________.
+4.  (Opinion) Je ne suis pas d'accord. -> Eu ________.
+5.  (Passé AR) J'ai voyagé. -> ________.
+6.  (Hôtel) Réservation -> ________.
+7.  (Verbe Ir) Où vas-tu ? -> Onde você ________?
+8.  (Jours) Aujourd'hui -> ________.
+9.  (Gostar) J'aime... -> ________ de...
+10. (Verbe Fazer) Je fais. -> ________.
+11. (Ville) Banque -> ________.
+12. (Routine) Dîner -> ________.
+13. (Maison) Salon -> ________.
+14. (Nombre) 1000 -> ________.

@@ -22,17 +22,17 @@ Bravo ! C'est l'arsenal complet pour survivre.
 3.  Imparfait : Je parlais. -> Eu ________.
 
 ## Révision Intensive (70% - Semaines 1-11)
-1.  (Subjonctif) Tomara que.
-2.  (Tech) Celular.
-3.  (Saisons) Outono.
-4.  (Imparfait) Chovia (Pleuvait).
-5.  (Connecteur) Porque.
-6.  (Pronoms) Me chamou.
-7.  (Passé ER) Comi.
-8.  (Santé) Febre.
-9.  (Direction) Direita.
-10. (Voyage) Mala.
-11. (Restaurant) Garçom.
-12. (Verbe Ir) Vou.
-13. (Verbe Ter) Tenho.
-14. (Ser) É.
+1.  (Subjonctif) Pourvu que... -> ________ que...
+2.  (Tech) Portable -> ________.
+3.  (Saisons) Automne -> ________.
+4.  (Imparfait) Il pleuvait. -> ________.
+5.  (Connecteur) Parce que -> ________.
+6.  (Pronoms) Il m'a appelé. -> ________ chamou.
+7.  (Passé ER) J'ai mangé. -> ________.
+8.  (Santé) Fièvre -> ________.
+9.  (Direction) Droite -> ________.
+10. (Voyage) Valise -> ________.
+11. (Restaurant) Serveur -> ________.
+12. (Verbe Ir) Je vais. -> ________.
+13. (Verbe Ter) J'ai. -> ________.
+14. (Ser) C'est. -> ________.

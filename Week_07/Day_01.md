@@ -22,17 +22,17 @@ Préparer son voyage au Brésil.
 3.  Où est ma valise ? -> Onde está minha ________?
 
 ## Révision Intensive (70% - Semaines 1-6)
-1.  (Nourriture) Feijão.
-2.  (Verbe -ER) Eu ________ (Beber).
-3.  (Verbe -IR) Nós ________ (Abrir).
-4.  (Verbe Ir) Onde você ________?
-5.  (Politesse) Eu ________ (Voudrais) um café.
-6.  (Futur) Eu vou ________ (Acheter).
-7.  (Jours) Sexta-feira.
-8.  (Verbe Fazer) O que ele faz?
-9.  (Ville) Supermercado.
-10. (Routine) Jantar.
-11. (Maison) Mesa.
-12. (Ser) Você é.
-13. (Estar) Eu estou.
-14. (Nombre) 8.
+1.  (Nourriture) Haricots. -> ________.
+2.  (Verbe -ER) Je bois. -> Eu ________.
+3.  (Verbe -IR) Nous ouvrons. -> Nós ________.
+4.  (Verbe Ir) Où vas-tu ? -> Onde você ________?
+5.  (Politesse) Je voudrais un café. -> Eu ________ um café.
+6.  (Futur) Je vais acheter. -> Eu vou ________.
+7.  (Jours) Vendredi -> ________ -feira.
+8.  (Verbe Fazer) Qu'est-ce qu'il fait ? -> O que ele ________?
+9.  (Ville) Supermarché -> ________.
+10. (Routine) Dîner (verbe). -> ________.
+11. (Maison) Table -> ________.
+12. (Ser) Tu es. -> Você ________.
+13. (Estar) Je suis. -> Eu ________.
+14. (Nombre) 8 -> ________.

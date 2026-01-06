@@ -19,17 +19,17 @@ ATTENTION : Les saisons sont inversées par rapport à l'Europe !
 3.  Au Brésil, l'hiver est doux. -> No Brasil, o ________ é suave.
 
 ## Révision Intensive (70% - Semaines 1-10)
-1.  (Passé vs Imparfait) Eu comi (Fois) / Eu comia (Habitude).
-2.  (Imparfait) Ele falava.
-3.  (Météo) Vento.
-4.  (Connecteur) Porque.
-5.  (Comparatif) Melhor (Mieux).
-6.  (Passé Ter) Tivemos.
-7.  (Passé Ser/Ir) Fomos.
-8.  (Corps) Perna.
-9.  (Passé ER) Bebeu.
-10. (Hôtel) Chave.
-11. (Voyage) Mala.
-12. (Futur) Vamos.
-13. (Verbe Ter) Tem.
-14. (Ser) Sou.
+1.  (Passé vs Imparfait) J'ai mangé (Fois) / Je mangeais (Habitude). -> Eu ________ / Eu ________.
+2.  (Imparfait) Il parlait. -> Ele ________.
+3.  (Météo) Vent -> ________.
+4.  (Connecteur) Parce que -> ________.
+5.  (Comparatif) Mieux -> ________.
+6.  (Passé Ter) Nous avons eu. -> ________.
+7.  (Passé Ser/Ir) Nous sommes allés. -> ________.
+8.  (Corps) Jambe -> ________.
+9.  (Passé ER) Il a bu. -> ________.
+10. (Hôtel) Clé -> ________.
+11. (Voyage) Valise -> ________.
+12. (Futur) Nous allons. -> ________.
+13. (Verbe Ter) Il a. -> ________.
+14. (Ser) Je suis. -> ________.

@@ -20,17 +20,17 @@ Gérer son hébergement.
 3.  Petit déjeuner inclus. -> ________ incluído.
 
 ## Révision Intensive (70% - Semaines 1-6)
-1.  (Direction) Tout droit.
-2.  (Orientation) Longe de.
-3.  (Voyage) Passagem (Billet).
-4.  (Nourriture) Frango.
-5.  (Verbe -ER) Comer.
-6.  (Futur) Vamos viajar.
-7.  (Jours) Sábado.
-8.  (Verbe Ir) Onde ele vai?
-9.  (Verbe Ter) Quantos anos?
-10. (Ville) Trabalho.
-11. (Routine) Acordar.
-12. (Maison) Banheiro.
-13. (Ser) Ela é bonita.
-14. (Estar) Ele está triste.
+1.  (Direction) Tout droit. -> ________.
+2.  (Orientation) Loin de. -> ________ de.
+3.  (Voyage) Billet. -> ________.
+4.  (Nourriture) Poulet. -> ________.
+5.  (Verbe -ER) Manger. -> ________.
+6.  (Futur) Nous allons voyager. -> Vamos ________.
+7.  (Jours) Samedi -> ________.
+8.  (Verbe Ir) Où va-t-il ? -> Onde ele ________?
+9.  (Verbe Ter) Quel âge ? -> Quantos anos.
+10. (Ville) Travail. -> ________.
+11. (Routine) Se réveiller. -> ________.
+12. (Maison) Salle de bain. -> ________.
+13. (Ser) Elle est belle. -> Ela ________ bonita.
+14. (Estar) Il est triste. -> Ele ________ triste.

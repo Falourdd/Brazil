@@ -21,17 +21,17 @@ Donner des détails sur ses expériences.
 3.  Le voyage a été cher. -> A viagem foi ________.
 
 ## Révision Intensive (70% - Semaines 1-7)
-1.  (Passé ER) Eu comi.
-2.  (Passé AR) Ela estudou.
-3.  (Passé Intro) Semana passada.
-4.  (Questions) Quando?
-5.  (Hôtel) Café da manhã.
-6.  (Direction) Siga reto.
-7.  (Voyage) Passaporte.
-8.  (Jours) Domingo.
-9.  (Gostar) Gosto de...
-10. (Verbe Ir) Vamos.
-11. (Verbe Ter) Tenho.
-12. (Transport) Táxi.
-13. (Maison) Casa.
-14. (Ser) Sou.
+1.  (Passé ER) J'ai mangé. -> Eu ________.
+2.  (Passé AR) Elle a étudié. -> Ela ________.
+3.  (Passé Intro) Semaine dernière -> ________ passada.
+4.  (Questions) Quand ? -> ________?
+5.  (Hôtel) Petit-déjeuner -> ________.
+6.  (Direction) Suivez tout droit. -> ________ reto.
+7.  (Voyage) Passeport -> ________.
+8.  (Jours) Dimanche -> ________.
+9.  (Gostar) J'aime... -> ________ de...
+10. (Verbe Ir) Nous allons. -> ________.
+11. (Verbe Ter) J'ai. -> ________.
+12. (Transport) Taxi -> ________.
+13. (Maison) Maison -> ________.
+14. (Ser) Je suis. -> ________.

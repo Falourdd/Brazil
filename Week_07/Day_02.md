@@ -21,17 +21,17 @@ Se situer dans l'espace.
 3.  À gauche ou à droite ? -> Esquerda ou ________?
 
 ## Révision Intensive (70% - Semaines 1-6)
-1.  (Voyage) Passaporte.
-2.  (Nourriture) Arroz.
-3.  (Verbe -ER) Eles ________ (Comer).
-4.  (Verbe -IR) Eu ________ (Pedir - Irrégulier: peço). Attention! -> Eu peço.
-5.  (Futur) Vamos ________ (Partir).
-6.  (Jours) Domingo.
-7.  (Gostar) Gosto de ________.
-8.  (Verbe Ir) Vai.
-9.  (Verbe Ter) Tenho.
-10. (Ville) Farmácia.
-11. (Routine) Dormir.
-12. (Ser) Ele é.
-13. (Estar) Nós estamos.
-14. (Nombre) 25.
+1.  (Voyage) Passeport. -> ________.
+2.  (Nourriture) Riz. -> ________.
+3.  (Verbe -ER) Ils mangent. -> Eles ________.
+4.  (Verbe -IR) Je commande (Pedir). -> Eu ________.
+5.  (Futur) Nous allons partir. -> Vamos ________.
+6.  (Jours) Dimanche -> ________.
+7.  (Gostar) J'aime le chocolat. -> Gosto ________ chocolate.
+8.  (Verbe Ir) Il va. -> Ele ________.
+9.  (Verbe Ter) J'ai. -> Eu ________.
+10. (Ville) Pharmacie -> ________.
+11. (Routine) Dormir. -> ________.
+12. (Ser) Il est. -> Ele ________.
+13. (Estar) Nous sommes. -> Nós ________.
+14. (Nombre) 25 -> ________.

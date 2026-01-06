@@ -17,17 +17,17 @@ Souvent, on utilise les deux ensemble :
 3.  Je dormais quand il est arrivé. -> Eu ________ quando ele chegou.
 
 ## Révision Intensive (70% - Semaines 1-10)
-1.  (Imparfait) Eu comia.
-2.  (Météo) Chuva.
-3.  (Pronoms) Te amo.
-4.  (Superlatif) Caríssimo.
-5.  (Opinion) Eu discordo.
-6.  (Passé Fazer) Eu fiz.
-7.  (Santé) Febre.
-8.  (Passé AR) Viajei.
-9.  (Questions) Onde?
-10. (Direction) Esquerda.
-11. (Restaurant) Conta.
-12. (Futur) Vou beber.
-13. (Ville) Rua.
-14. (Maison) Banheiro.
+1.  (Imparfait) Je mangeais. -> Eu ________.
+2.  (Météo) Pluie -> ________.
+3.  (Pronoms) Je t'aime. -> ________ amo.
+4.  (Superlatif) Très cher. -> ________.
+5.  (Opinion) Je ne suis pas d'accord. -> Eu ________.
+6.  (Passé Fazer) J'ai fait. -> Eu ________.
+7.  (Santé) Fièvre -> ________.
+8.  (Passé AR) J'ai voyagé. -> ________.
+9.  (Questions) Où ? -> ________?
+10. (Direction) Gauche -> ________.
+11. (Restaurant) L'addition -> A ________.
+12. (Futur) Je vais boire. -> Vou ________.
+13. (Ville) Rue -> ________.
+14. (Maison) Salle de bain -> ________.

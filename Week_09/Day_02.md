@@ -21,17 +21,17 @@ Expliquer qu'on est malade.
 3.  Le médecin. -> O ________.
 
 ## Révision Intensive (70% - Semaines 1-8)
-1.  (Corps) Cabeça.
-2.  (Passé AR) Você gostou?
-3.  (Passé ER) Eles comeram.
-4.  (Questions) Onde?
-5.  (Hôtel) Chave.
-6.  (Direction) Esquerda.
-7.  (Voyage) Aeroporto.
-8.  (Restaurant) Mesa.
-9.  (Futur) Vamos viajar.
-10. (Verbe Ir) Vão.
-11. (Verbe Ter) Tem.
-12. (Transport) Carro.
-13. (Routine) Dormir.
-14. (Nombre) 30.
+1.  (Corps) Tête -> ________.
+2.  (Passé AR) Tu as aimé ? -> Você ________?
+3.  (Passé ER) Ils ont mangé. -> Eles ________.
+4.  (Questions) Où ? -> ________?
+5.  (Hôtel) Clé -> ________.
+6.  (Direction) Gauche -> ________.
+7.  (Voyage) Aéroport -> ________.
+8.  (Restaurant) La table -> A ________.
+9.  (Futur) Nous allons voyager. -> Vamos ________.
+10. (Verbe Ir) Ils vont. -> ________.
+11. (Verbe Ter) Il a. -> ________.
+12. (Transport) Voiture -> ________.
+13. (Routine) Dormir -> ________.
+14. (Nombre) 30 -> ________.

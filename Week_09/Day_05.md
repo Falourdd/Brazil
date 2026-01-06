@@ -20,17 +20,17 @@ Comprendre un diagnostic simple.
 3.  Au secours ! -> ________!
 
 ## Révision Intensive (70% - Semaines 1-8)
-1.  (Passé Fazer) Eu fiz.
-2.  (Passé Ter) Eu tive.
-3.  (Passé Ser/Ir) Foi legal.
-4.  (Corps) Mão.
-5.  (Passé AR) Comprei.
-6.  (Questions) Quem?
-7.  (Hôtel) Reserva.
-8.  (Direction) Virar.
-9.  (Restaurant) Prato.
-10. (Verbe -ER) Beber.
-11. (Futur) Vou dormir.
-12. (Gostar) Gosto de viajar.
-13. (Maison) Cama.
-14. (Estar) Estou doente.
+1.  (Passé Fazer) J'ai fait. -> Eu ________.
+2.  (Passé Ter) J'ai eu. -> Eu ________.
+3.  (Passé Ser/Ir) C'était cool. -> ________ legal.
+4.  (Corps) Main -> ________.
+5.  (Passé AR) J'ai acheté. -> ________.
+6.  (Questions) Qui ? -> ________?
+7.  (Hôtel) Réservation -> ________.
+8.  (Direction) Tourner -> ________.
+9.  (Restaurant) Assiette -> ________.
+10. (Verbe -ER) Boire -> ________.
+11. (Futur) Je vais dormir. -> Vou ________.
+12. (Gostar) J'aime voyager. -> ________ de viajar.
+13. (Maison) Lit -> ________.
+14. (Estar) Je suis malade. -> ________ doente.

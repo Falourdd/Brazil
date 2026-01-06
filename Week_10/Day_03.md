@@ -19,17 +19,17 @@ Très courant au Brésil pour exagérer (qu'ils adorent faire).
 3.  Très beau (Belíssimo). -> ________.
 
 ## Révision Intensive (70% - Semaines 1-9)
-1.  (Comparatif) Mais... que.
-2.  (Médecin) Médico.
-3.  (Passé Irrégulier) Eu estive (Estar).
-4.  (Passé AR) Viajei.
-5.  (Questions) Quanto custa?
-6.  (Direction) Direita.
-7.  (Restaurant) Conta.
-8.  (Futur) Vou.
-9.  (Gostar) Gosto de.
-10. (Verbe Ter) Têm.
-11. (Ville) Banco.
-12. (Transport) Ônibus.
-13. (Routine) Jantar.
-14. (Ser/Estar) Sou / Estou.
+1.  (Comparatif) Plus... que. -> ________... ________.
+2.  (Médecin) Médecin -> ________.
+3.  (Passé Irrégulier) J'ai été/séjourné (Estar). -> Eu ________.
+4.  (Passé AR) J'ai voyagé. -> ________.
+5.  (Questions) Combien ça coûte ? -> ________ custa?
+6.  (Direction) Droite -> ________.
+7.  (Restaurant) L'addition -> A ________.
+8.  (Futur) Je vais. -> ________.
+9.  (Gostar) J'aime... -> ________ de...
+10. (Verbe Ter) Ils ont. -> ________.
+11. (Ville) Banque -> ________.
+12. (Transport) Bus -> ________.
+13. (Routine) Dîner -> ________.
+14. (Ser/Estar) Je suis / Je suis. -> Sou / ________.

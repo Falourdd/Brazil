@@ -23,17 +23,17 @@ Racontez ce que vous allez faire demain.
 3.  Je vais savoir. -> Eu vou ________.
 
 ## Révision Intensive (70% - Semaines 1-4)
-1.  (Gostar) Eu gosto ________ música (de).
-2.  (Loisir) Praia.
-3.  (Verbe Ir) Ela ________ (Vai).
-4.  (Verbe Fazer) Nós ________ (Fazemos).
-5.  (Verbe Ter) Eles ________ (Têm).
-6.  (Ville) Pharmarcie -> ________.
-7.  (Transport) A pé.
-8.  (Maison) Salon -> ________.
-9.  (Maison) Frigo -> ________.
-10. (Routine) Déjeuner -> ________ (Almoçar).
-11. (Famille) Frère.
-12. (Ser) Você ________ (Are).
-13. (Estar) Eu ________ cansado.
-14. (Nombre) 100.
+1.  (Gostar) J'aime la musique. -> Eu gosto ________ música.
+2.  (Loisir) Je vais à la plage. -> Eu vou para a ________.
+3.  (Verbe Ir) Elle va. -> Ela ________.
+4.  (Verbe Fazer) Nous faisons. -> Nós ________.
+5.  (Verbe Ter) Ils ont. -> Eles ________.
+6.  (Ville) Pharmacie -> ________.
+7.  (Transport) À pied. -> A ________.
+8.  (Maison) Le salon. -> A ________.
+9.  (Maison) Le frigo. -> A ________.
+10. (Routine) Déjeuner (Midi). -> ________.
+11. (Famille) Frère -> ________.
+12. (Ser) Vous êtes (Tu es). -> Você ________.
+13. (Estar) Je suis fatigué. -> Eu ________ cansado.
+14. (Nombre) 100 -> ________.

@@ -23,17 +23,17 @@ Verbe **Falar** (Parler) au passé.
 3.  (Comprar/Nós) Nós ________ pão.
 
 ## Révision Intensive (70% - Semaines 1-7)
-1.  (Passé Intro) Ontem.
-2.  (Questions) Quanto custa?
-3.  (Hôtel) Chave.
-4.  (Direction) Virar.
-5.  (Orientation) Longe.
-6.  (Voyage) Embarcar.
-7.  (Nourriture) Arroz.
-8.  (Verbe -IR) Abrir.
-9.  (Futur) Vamos sair.
-10. (Jours) Quinta.
-11. (Verbe Ir) Vão.
-12. (Verbe Ter) Tem.
-13. (Transport) Metro.
-14. (Ser) Você é.
+1.  (Passé Intro) Hier -> ________.
+2.  (Questions) Combien ça coûte ? -> ________ custa?
+3.  (Hôtel) Clé -> ________.
+4.  (Direction) Tourner -> ________.
+5.  (Orientation) Loin -> ________.
+6.  (Voyage) Embarquer -> ________.
+7.  (Nourriture) Riz -> ________.
+8.  (Verbe -IR) Ouvrir -> ________.
+9.  (Futur) Nous allons sortir. -> Vamos ________.
+10. (Jours) Jeudi -> ________.
+11. (Verbe Ir) Ils vont. -> ________.
+12. (Verbe Ter) Il a. -> ________.
+13. (Transport) Métro -> ________.
+14. (Ser) Tu es -> Você ________.

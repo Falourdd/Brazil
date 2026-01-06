@@ -23,17 +23,17 @@ Verbes **Comer** et **Abrir**.
 3.  (Sair/Nós) Nós ________ cedo.
 
 ## Révision Intensive (70% - Semaines 1-7)
-1.  (Passé AR) Eu falei.
-2.  (Questions) Quem?
-3.  (Hôtel) Wi-Fi.
-4.  (Orientation) Lado.
-5.  (Voyage) Voo.
-6.  (Restaurant) Cardápio.
-7.  (Verbe -ER) Comer.
-8.  (Futur) Vou dormir.
-9.  (Jours) Sábado.
-10. (Verbe Ir) Onde você vai?
-11. (Verbe Fazer) O que você fez? (Passé Fazer: Fiz - Pas encore vu, utiliser Présent ou Futur: O que você vai fazer?)
-12. (Ville) Trabalho.
-13. (Routine) Almoçar.
-14. (Estar) Estou cansado.
+1.  (Passé AR) J'ai parlé. -> Eu ________.
+2.  (Questions) Qui ? -> ________?
+3.  (Hôtel) Le Wi-Fi -> O ________.
+4.  (Orientation) À côté -> Ao ________.
+5.  (Voyage) Le vol -> O ________.
+6.  (Restaurant) Menu -> ________.
+7.  (Verbe -ER) Manger -> ________.
+8.  (Futur) Je vais dormir. -> Vou ________.
+9.  (Jours) Samedi -> ________.
+10. (Verbe Ir) Où vas-tu ? -> Onde você ________?
+11. (Verbe Fazer) Qu'est-ce que tu vas faire ? -> O que você vai ________?
+12. (Ville) Travail -> ________.
+13. (Routine) Déjeuner -> ________.
+14. (Estar) Je suis fatigué. -> ________ cansado.

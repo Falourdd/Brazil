@@ -19,17 +19,17 @@ Ne pas se perdre !
 3.  Tournez. -> ________ (Virar).
 
 ## Révision Intensive (70% - Semaines 1-6)
-1.  (Orientation) Perto de.
-2.  (Voyage) Mala.
-3.  (Restaurant) A conta.
-4.  (Verbe -ER) Você ________ (Escrever).
-5.  (Futur) Vou ________ (Sortir).
-6.  (Jours) Terça-feira.
-7.  (Verbe Ir) Vocês vão.
-8.  (Verbe Fazer) Elas fazem.
-9.  (Transport) Metrô.
-10. (Ville) Padaria.
-11. (Routine) Tomar banho.
-12. (Maison) Cama.
-13. (Ser) Sou.
-14. (Estar) Estou.
+1.  (Orientation) Près de. -> ________ de.
+2.  (Voyage) Valise. -> ________.
+3.  (Restaurant) L'addition. -> A ________.
+4.  (Verbe -ER) Tu écris. -> Você ________.
+5.  (Futur) Je vais sortir. -> Vou ________.
+6.  (Jours) Mardi -> ________ -feira.
+7.  (Verbe Ir) Vous allez. -> Vocês ________.
+8.  (Verbe Fazer) Elles font. -> Elas ________.
+9.  (Transport) Métro. -> ________.
+10. (Ville) Boulangerie -> ________.
+11. (Routine) Prendre une douche. -> Tomar ________.
+12. (Maison) Lit -> ________.
+13. (Ser) Je suis. -> ________.
+14. (Estar) Je suis. -> ________.

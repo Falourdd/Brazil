@@ -22,16 +22,16 @@ En portugais, c'est unique ! On compte les jours (sauf le weekend).
 
 ## Révision Intensive (70% - Semaines 1-4)
 1.  (Futur) Je vais manger. -> Eu vou ________.
-2.  (Loisir) Ler.
-3.  (Gostar) Você gosta de viajar?
-4.  (Verbe Ir) Nós ________.
-5.  (Verbe Fazer) O que ele ________?
-6.  (Verbe Ter) Eu tenho que...
-7.  (Ville) Trabalho.
-8.  (Transport) Uber.
-9.  (Routine) Dîner -> ________ (Jantar).
-10. (Maison) Lit.
-11. (Famille) Soeur.
-12. (Adjectif) Grande.
-13. (Couleur) Azul.
-14. (Nombre) 15.
+2.  (Loisir) Lire. -> ________.
+3.  (Gostar) Tu aimes voyager ? -> Você gosta de ________?
+4.  (Verbe Ir) Nous allons. -> Nós ________.
+5.  (Verbe Fazer) Qu'est-ce qu'il fait ? -> O que ele ________?
+6.  (Verbe Ter) J'ai que... (Je dois). -> Eu ________ que...
+7.  (Ville) Le travail. -> O ________.
+8.  (Transport) Je prends un Uber. -> Eu pego um ________.
+9.  (Routine) Dîner (Soir). -> ________.
+10. (Maison) Lit. -> ________.
+11. (Famille) Soeur -> ________.
+12. (Adjectif) Grand -> ________.
+13. (Couleur) Bleu -> ________.
+14. (Nombre) 15 -> ________.

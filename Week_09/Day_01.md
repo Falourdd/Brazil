@@ -23,17 +23,17 @@ Nommer les parties du corps.
 3.  Ma main. -> A minha ________.
 
 ## Révision Intensive (70% - Semaines 1-8)
-1.  (Passé Ir - "Aller") Eu ________ (Fui) ao Brasil.
-2.  (Passé AR) Eu tomei café.
-3.  (Passé Ser - "Etre") O filme foi bom.
-4.  (Questions) Por que?
-5.  (Hôtel) A conta.
-6.  (Voyage) Passagem.
-7.  (Verbe -IR) Pedir.
-8.  (Verbe -ER) Comer.
-9.  (Futur) Vou comer.
-10. (Verbe Ir) Você vai.
-11. (Verbe Ter) Temos.
-12. (Ville) Farmácia.
-13. (Routine) Acordar.
-14. (Ser/Estar) Eu sou / Eu estou.
+1.  (Passé Ir - "Aller") Je suis allé au Brésil. -> Eu ________ ao Brasil.
+2.  (Passé AR) J'ai pris un café. -> Eu ________ café.
+3.  (Passé Ser - "Etre") Le film a été bon (fut bon). -> O filme ________ bom.
+4.  (Questions) Pourquoi ? -> ________ que?
+5.  (Hôtel) L'addition -> A ________.
+6.  (Voyage) Billet -> ________.
+7.  (Verbe -IR) Commander -> ________.
+8.  (Verbe -ER) Manger -> ________.
+9.  (Futur) Je vais manger. -> ________ comer.
+10. (Verbe Ir) Tu vas. -> Você ________.
+11. (Verbe Ter) Nous avons. -> ________.
+12. (Ville) Pharmacie -> ________.
+13. (Routine) Se réveiller -> ________.
+14. (Ser/Estar) Je suis / Je suis (état). -> Eu ________ / Eu ________.

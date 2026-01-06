@@ -21,17 +21,17 @@ Pour les verbes en -ER/-IR, la voyelle devient **A**.
 3.  (Estudar) J'espère qu'elle étudie. -> Espero que ela ________.
 
 ## Révision Intensive (70% - Semaines 1-11)
-1.  (Tech) Baixar (Télécharger).
-2.  (Ficar) Onde fica?
-3.  (Météo) Chuva.
-4.  (Imparfait) Morava.
-5.  (Saisons) Verão.
-6.  (Comparatif) Melhor.
-7.  (Passé Ser/Ir) Fui/Foi.
-8.  (Passé Ter) Tive.
-9.  (Questions) Quanto?
-10. (Direction) Reto.
-11. (Restaurant) Conta.
-12. (Futur) Vamos.
-13. (Transport) Metro.
-14. (Estar) Estou.
+1.  (Tech) Télécharger -> ________.
+2.  (Ficar) Où se trouve (reste) ? -> Onde ________?
+3.  (Météo) Pluie -> ________.
+4.  (Imparfait) J'habitais (Morar). -> ________.
+5.  (Saisons) Été -> ________.
+6.  (Comparatif) Mieux -> ________.
+7.  (Passé Ser/Ir) Je suis allé / Ce fut. -> ________.
+8.  (Passé Ter) J'ai eu. -> ________.
+9.  (Questions) Combien ? -> ________?
+10. (Direction) Tout droit -> ________.
+11. (Restaurant) L'addition -> A ________.
+12. (Futur) Nous allons. -> ________.
+13. (Transport) Métro -> ________.
+14. (Estar) Je suis. -> ________.

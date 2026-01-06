@@ -22,17 +22,17 @@ Le week-end (Fim de semana) est très important. On demande souvent :
 3.  Le dimanche, je regarde la télé. -> No domingo, eu assisto ________.
 
 ## Révision Intensive (70% - Semaines 1-4)
-1.  (Verbe Ir) Eu ________ (Vou).
-2.  (Verbe Fazer) Você ________ (Faz).
-3.  (Verbe Ter) Nós ________ (Temos).
-4.  (Verbe Ser) Eles ________ (São).
-5.  (Ville) "Banque" -> ________.
-6.  (Ville) "Rue" -> ________.
-7.  (Transport) Metro.
-8.  (Maison) Cuisine -> ________.
+1.  (Verbe Ir) Je vais au Brésil. -> Eu ________ para o Brasil.
+2.  (Verbe Fazer) Ils font un gâteau. -> Eles ________ um bolo.
+3.  (Verbe Ter) Nous avons faim. -> Nós ________ fome.
+4.  (Verbe Ser) Elles sont amies. -> Elas ________ amigas.
+5.  (Ville) La banque -> O ________.
+6.  (Ville) La rue -> A ________.
+7.  (Transport) Je vais en métro. -> Vou de ________.
+8.  (Maison) Je cuisine dans la... -> ________.
 9.  (Maison) Salle de bain -> ________.
 10. (Routine) Se lever -> ________.
-11. (Famille) Ma mère -> ________.
+11. (Famille) Ma mère -> ________ ________.
 12. (Négation) Je ne travaille pas. -> Eu ________ trabalho.
 13. (Nombre) 30 -> ________.
-14. (Salutation) Bom dia.
+14. (Salutation) "Bonjour" (Matin) -> ________ dia.

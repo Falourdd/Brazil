@@ -22,17 +22,17 @@ Oui, c'est le contexte qui décide.
 3.  (Aller) Nous sommes allés à la plage. -> ________ à praia.
 
 ## Révision Intensive (70% - Semaines 1-8)
-1.  (Santé) Remédio.
-2.  (Corps) Perna.
-3.  (Passé AR) Eu trabalhei.
-4.  (Questions) Quanto?
-5.  (Hôtel) Café da manhã.
-6.  (Direction) Reto.
-7.  (Voyage) Mala.
-8.  (Nourriture) Feijão.
-9.  (Futur) Vou sair.
-10. (Gostar) Gosto de.
-11. (Verbe Fazer) Faço.
-12. (Verbe Ter) Têm.
-13. (Ville) Banco.
-14. (Salutation) Tudo bem?
+1.  (Santé) Médicament -> ________.
+2.  (Corps) Jambe -> ________.
+3.  (Passé AR) J'ai travaillé. -> Eu ________.
+4.  (Questions) Combien ? -> ________?
+5.  (Hôtel) Petit-déjeuner -> ________.
+6.  (Direction) Tout droit -> ________.
+7.  (Voyage) Valise -> ________.
+8.  (Nourriture) Haricots -> ________.
+9.  (Futur) Je vais sortir. -> Vou ________.
+10. (Gostar) J'aime... -> Gosto ________.
+11. (Verbe Fazer) Je fais. -> ________.
+12. (Verbe Ter) Ils ont. -> ________.
+13. (Ville) Banque -> ________.
+14. (Salutation) Tout va bien ? -> Tudo ________?

@@ -24,17 +24,17 @@ Pour "Me" et "Te", placez-les **avant** le verbe.
 3.  Je l'aime (elle). -> Eu amo ________.
 
 ## Révision Intensive (70% - Semaines 1-9)
-1.  (Superlatif) O mais bonito.
-2.  (Opinion) Eu concordo.
-3.  (Passé Ser/Ir) Foi.
-4.  (Corps) Olhos.
-5.  (Passé ER) Bebeu.
-6.  (Hôtel) Café.
-7.  (Voyage) Passagem.
-8.  (Verbe Ir) Vai.
-9.  (Futur) Vamos sair.
-10. (Ville) Trabalho.
-11. (Routine) Dormir.
-12. (Maison) Cozinha.
-13. (Famille) Pai.
-14. (Nombre) 50.
+1.  (Superlatif) Le plus beau. -> O ________ bonito.
+2.  (Opinion) Je suis d'accord. -> Eu ________.
+3.  (Passé Ser/Ir) Ce fut. -> ________.
+4.  (Corps) Yeux -> ________.
+5.  (Passé ER) Il a bu. -> Ele ________.
+6.  (Hôtel) Café -> ________.
+7.  (Voyage) Billet -> ________.
+8.  (Verbe Ir) Il va. -> Ele ________.
+9.  (Futur) Nous allons sortir. -> Vamos ________.
+10. (Ville) Travail -> ________.
+11. (Routine) Dormir -> ________.
+12. (Maison) Cuisine -> ________.
+13. (Famille) Père -> ________.
+14. (Nombre) 50 -> ________.

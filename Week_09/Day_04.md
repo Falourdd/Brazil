@@ -20,17 +20,17 @@ Ces verbes changent beaucoup au passé.
 3.  J'ai été (séjourné) là-bas. -> Eu ________ lá.
 
 ## Révision Intensive (70% - Semaines 1-8)
-1.  (Passé Ser/Ir) Onde você foi?
-2.  (Santé) Gripe.
-3.  (Corps) Olhos.
-4.  (Passé AR) Nós viajamos.
-5.  (Voyage) Passaporte.
-6.  (Restaurant) Garçom.
-7.  (Verbe -IR) Abrir.
-8.  (Futur) Vai chover.
-9.  (Jours) Domingo.
-10. (Verbe Ir) Onde ele vai?
-11. (Verbe Ter) Tenho 20 anos.
-12. (Transport) Uber.
-13. (Routine) Jantar.
-14. (Ser) Sou brasileiro.
+1.  (Passé Ser/Ir) Où es-tu allé ? -> Onde você ________?
+2.  (Santé) Grippe -> ________.
+3.  (Corps) Yeux -> ________.
+4.  (Passé AR) Nous avons voyagé. -> Nós ________.
+5.  (Voyage) Passeport -> ________.
+6.  (Restaurant) Serveur -> ________.
+7.  (Verbe -IR) Ouvrir -> ________.
+8.  (Futur) Il va pleuvoir (chover). -> Vai ________.
+9.  (Jours) Dimanche -> ________.
+10. (Verbe Ir) Où va-t-il ? -> Onde ele ________?
+11. (Verbe Ter) J'ai 20 ans. -> ________ 20 anos.
+12. (Transport) Uber -> ________.
+13. (Routine) Dîner -> ________.
+14. (Ser) Je suis brésilien. -> ________ brasileiro.

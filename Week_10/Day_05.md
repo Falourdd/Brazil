@@ -20,17 +20,17 @@ Faire des phrases longues et structurées.
 3.  Parce que -> ________.
 
 ## Révision Intensive (70% - Semaines 1-9)
-1.  (Pronoms) Eu te amo.
-2.  (Comparatif) Melhor (Mieux).
-3.  (Santé) Hospital.
-4.  (Passé AR) Cheguei.
-5.  (Questions) Onde?
-6.  (Direction) Siga reto.
-7.  (Restaurant) Garçom.
-8.  (Futur) Vou fazer.
-9.  (Verbe Ter) Tenho.
-10. (Transport) Avião.
-11. (Ville) Padaria.
-12. (Maison) Cama.
-13. (Ser) É.
-14. (Estar) Está.
+1.  (Pronoms) Je t'aime. -> Eu ________ amo.
+2.  (Comparatif) Mieux -> ________.
+3.  (Santé) Hôpital -> ________.
+4.  (Passé AR) Je suis arrivé. -> ________.
+5.  (Questions) Où ? -> ________?
+6.  (Direction) Suivez tout droit. -> ________ reto.
+7.  (Restaurant) Serveur -> ________.
+8.  (Futur) Je vais faire. -> Vou ________.
+9.  (Verbe Ter) J'ai. -> ________.
+10. (Transport) Avion -> ________.
+11. (Ville) Boulangerie -> ________.
+12. (Maison) Lit -> ________.
+13. (Ser) C'est (Il est). -> ________.
+14. (Estar) Il est (état). -> ________.

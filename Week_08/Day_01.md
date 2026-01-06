@@ -21,17 +21,17 @@ Pour une action **terminée** dans le passé.
 3.  J'ai déjà mangé. -> Eu ________ comi.
 
 ## Révision Intensive (70% - Semaines 1-7)
-1.  (Questions) Onde?
-2.  (Hôtel) Reserva.
-3.  (Direction) Reto (Tout droit).
-4.  (Orientation) Perto.
-5.  (Voyage) Mala.
-6.  (Restaurant) Conta.
-7.  (Verbe -ER) Beber.
-8.  (Futur) Vou fazer.
-9.  (Jours) Segunda.
-10. (Verbe Ir) Vai.
-11. (Verbe Fazer) Faz.
-12. (Verbe Ter) Temos.
-13. (Ville) Cais (Quai) / Aeroporto.
-14. (Ser/Estar) Eu sou feliz / Eu estou feliz.
+1.  (Questions) Où ? -> ________?
+2.  (Hôtel) Réservation -> ________.
+3.  (Direction) Tout droit. -> ________.
+4.  (Orientation) Près. -> ________.
+5.  (Voyage) Valise -> ________.
+6.  (Restaurant) L'addition -> A ________.
+7.  (Verbe -ER) Boire -> ________.
+8.  (Futur) Je vais faire. -> Vou ________.
+9.  (Jours) Lundi -> ________.
+10. (Verbe Ir) Il va. -> ________.
+11. (Verbe Fazer) Il fait. -> ________.
+12. (Verbe Ter) Nous avons. -> _________.
+13.  (Ville) Aéroport -> ________.
+14. (Ser/Estar) Je suis heureux / Je suis (état) heureux. -> Eu ________ feliz / Eu ________ feliz.
