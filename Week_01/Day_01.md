@@ -5,7 +5,7 @@ Apprendre à saluer, à demander comment ça va, et à prendre congé, de maniè
 
 ## Vocabulaire
 
-### Salutations (Chegada)
+### Salutations (Chegada : Salutations d'arrivée)
 *   **Oi !** : Salut ! (Informel)
 *   **Olá !** : Bonjour/Salut (Neutre)
 *   **Bom dia** : Bonjour (Matin - jusqu'à 12h)
@@ -17,7 +17,7 @@ Apprendre à saluer, à demander comment ça va, et à prendre congé, de maniè
 *   **Como você está?** : Comment allez-vous ? (Plus formel)
 *   **Tudo joia?** : Tout baigne ? (Très brésilien, informel)
 
-### Au revoir (Despedida)
+### Au revoir (Despedida : Salutations de départ)
 *   **Tchau** : Salut/Au revoir
 *   **Até logo** : À bientôt
 *   **Até amanhã** : À demain
