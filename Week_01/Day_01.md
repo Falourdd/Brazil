@@ -6,21 +6,21 @@ Apprendre à saluer, à demander comment ça va, et à prendre congé, de maniè
 ## Vocabulaire
 
 ### Salutations (Chegada : Salutations d'arrivée)
-*   **Oi !** : Salut ! (Informel)
-*   **Olá !** : Bonjour/Salut (Neutre)
-*   **Bom dia** : Bonjour (Matin - jusqu'à 12h)
-*   **Boa tarde** : Bonjour (Après-midi - 12h à 18h)
-*   **Boa noite** : Bonsoir/Bonne huit (Soir/Nuit - dès qu'il fait nuit)
+*   **Oi !** : Salut ! (Informel) <audio controls src="./Day_01/oi.mp3" style="width: 200px; height: 20px; vertical-align: middle; margin-left: 10px;"></audio>
+*   **Olá !** : Bonjour/Salut (Neutre) <audio controls src="./Day_01/ola.mp3" style="width: 200px; height: 20px; vertical-align: middle; margin-left: 10px;"></audio>
+*   **Bom dia** : Bonjour (Matin - jusqu'à 12h) <audio controls src="./Day_01/bom_dia.mp3" style="width: 200px; height: 20px; vertical-align: middle; margin-left: 10px;"></audio>
+*   **Boa tarde** : Bonjour (Après-midi - 12h à 18h) <audio controls src="./Day_01/boa_tarde.mp3" style="width: 200px; height: 20px; vertical-align: middle; margin-left: 10px;"></audio>
+*   **Boa noite** : Bonsoir/Bonne huit (Soir/Nuit - dès qu'il fait nuit) <audio controls src="./Day_01/boa_noite.mp3" style="width: 200px; height: 20px; vertical-align: middle; margin-left: 10px;"></audio>
 
 ### Demander "Comment ça va ?"
-*   **Tudo bem?** : Tout va bien ? (Le plus courant)
-*   **Como você está?** : Comment allez-vous ? (Plus formel)
-*   **Tudo joia?** : Tout baigne ? (Très brésilien, informel)
+*   **Tudo bem?** : Tout va bien ? (Le plus courant) <audio controls src="./Day_01/tudo_bem.mp3" style="width: 200px; height: 20px; vertical-align: middle; margin-left: 10px;"></audio>
+*   **Como você está?** : Comment allez-vous ? (Plus formel) <audio controls src="./Day_01/como_voce_esta.mp3" style="width: 200px; height: 20px; vertical-align: middle; margin-left: 10px;"></audio>
+*   **Tudo joia?** : Tout baigne ? (Très brésilien, informel) <audio controls src="./Day_01/tudo_joia.mp3" style="width: 200px; height: 20px; vertical-align: middle; margin-left: 10px;"></audio>
 
 ### Au revoir (Despedida : Salutations de départ)
-*   **Tchau** : Salut/Au revoir
-*   **Até logo** : À bientôt
-*   **Até amanhã** : À demain
+*   **Tchau** : Salut/Au revoir <audio controls src="./Day_01/tchau.mp3" style="width: 200px; height: 20px; vertical-align: middle; margin-left: 10px;"></audio>
+*   **Até logo** : À bientôt <audio controls src="./Day_01/ate_logo.mp3" style="width: 200px; height: 20px; vertical-align: middle; margin-left: 10px;"></audio>
+*   **Até amanhã** : À demain <audio controls src="./Day_01/ate_amanha.mp3" style="width: 200px; height: 20px; vertical-align: middle; margin-left: 10px;"></audio>
 
 ## Grammaire / Notes Culturelles
 Au Brésil, **"Tudo bem?"** est utilisé comme salutation standard. Souvent, on répond par la même question.
